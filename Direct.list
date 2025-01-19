@@ -8,6 +8,11 @@ DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,monikadesign.uk
+DOMAIN-KEYWORD,hdfans
+DOMAIN-KEYWORD,ubits
+DOMAIN-KEYWORD,pttime
+DOMAIN-KEYWORD,ptchina
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
@@ -26,17 +31,14 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 # 自己添加
 DOMAIN-SUFFIX,nicept.net
-DOMAIN-SUFFIX,pttime.org
 DOMAIN-SUFFIX,share.ilolicon.com
 DOMAIN-SUFFIX,hdatmos.club
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,pt.hdupt.com
 DOMAIN-SUFFIX,carpt.net
-DOMAIN-SUFFIX,ptchina.org
 DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,pt.btschool.club
 DOMAIN-SUFFIX,hdtime.org
-DOMAIN-SUFFIX,hdfans.org
 DOMAIN-SUFFIX,hdhome.org
 DOMAIN-SUFFIX,rousi.zip
 DOMAIN-SUFFIX,cyanbug.net
@@ -45,7 +47,6 @@ DOMAIN-SUFFIX,pt.0ff.cc
 DOMAIN-SUFFIX,hdarea.club
 DOMAIN-SUFFIX,piggo.me
 DOMAIN-SUFFIX,pt.tu88.men
-DOMAIN-SUFFIX,monikadesign.uk
 DOMAIN-SUFFIX,ptvicomo.net
 DOMAIN-SUFFIX,ubits.club
 DOMAIN-SUFFIX,pt.keepfrds.com
