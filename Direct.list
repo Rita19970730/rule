@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,appq.top
 DOMAIN-SUFFIX,scriptcat.org
+DOMAIN-SUFFIX,yciccloud.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -55,3 +56,4 @@ DOMAIN-KEYWORD,pandapt
 DOMAIN-KEYWORD,htpt
 DOMAIN-SUFFIX,cnboy.org
 DOMAIN-SUFFIX,bookmarkearth.com
+
